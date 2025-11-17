@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Email All Councilors"
+description: "Reach out to Councilors via email"
+date: 2025-11-17
+---
+
+Please use QR code or mail link to email All Councilors.
+
+This will open email on your phone or laptop. Please feel free to edit. 
+
+[Link to Open prefilled email](mailto:georgina.oxley@kingston.vic.gov.au,Sarah.ODonnell@kingston.vic.gov.au,Chris.Howe@kingston.vic.gov.au,Tony.A@kingston.vic.gov.au,Caroline.White@kingston.vic.gov.au,Jane.Agirtan@kingston.vic.gov.au,chris.hill@kingston.vic.gov.au,hadi.saab@kingston.vic.gov.au,Kirralee.Ashworth-Collett@kingston.vic.gov.au,Georgia.Erevnidis@kingston.vic.gov.au?subject=Objection%20to%20Application%20KP-2024%2F481&body=Dear%20Councilor%2C%0A%0AI%20am%20writing%20to%20formally%20object%20to%20the%20proposed%20childcare%20development%20%20KP-2024%2F481.%0A%0AMy%20primary%20concerns%20are%20Traffic%20Congestion%20and%20Safety.%20%0A%0AI%20urge%20the%20council%20to%20reconsider%20this%20application%20and%20assess%20the%20impact%20on%20local%20traffic%20and%20community%20safety.%0A%0ARegards)
+
+
+![QR code to open prefilled email](../Images/EmailQR.png "QR code to open prefilled emai")

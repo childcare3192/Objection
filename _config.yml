@@ -2,12 +2,12 @@
 # Welcome to Jekyll!
 #
 
-title: 93-95 Centre Dandenong Road cheltenham - Childcare Application
-author: Childcare Application Objections
+title: 93-95 Centre Dandenong Road cheltenham - Objection to Childcare.
+author: KP-2024/481
 description: >- # this means to ignore newlines until "baseurl:"
-  Information to object childcare application at 93-95 Centre Dandenong Road Cheltenham, 3192 VIC. Australia
+  Information to object childcare application at 93-95 Centre Dandenong Road Cheltenham, 3192 VIC. Australia.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stackedheaps.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 
@@ -17,8 +17,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-email-protect
   - jekyll-sitemap
 
 sass:
@@ -30,7 +28,6 @@ permalink: /:title/
 
 # Exclude from processing.
 exclude:
-  - Playground/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
