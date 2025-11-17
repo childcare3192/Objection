@@ -24,7 +24,6 @@ sass:
   silence_deprecations: [import]
 
 # How post links are created
-permalink: /:title/
 
 # Exclude from processing.
 exclude:
